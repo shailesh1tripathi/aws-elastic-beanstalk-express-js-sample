@@ -12,10 +12,10 @@ app.get('/', (req, res) => {
   res.render(
     'index', 
     { 
-      title: 'Coming Soon!', 
-      mainText: 'Eventually Podcast', 
-      subText: `Drop your email address below and we will let you know when we launch the Eventually podcast. 
-      <br>Brought to you by amazing people`
+      title: 'AWS Cetified Developer', 
+      mainText: 'AWS Cetified Developer - Associate Certificate Registrations', 
+      subText: `Drop your email address below to Register. 
+      <br>tripathi.shailesh@gmail.com`
     }
     );
 });
