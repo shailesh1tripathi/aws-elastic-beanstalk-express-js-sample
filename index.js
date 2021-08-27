@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
       title: 'AWS Cetified Developer', 
       mainText: 'AWS Cetified Developer - Associate Certificate Registrations', 
       subText: `Drop your email address below to Register. 
-      <br>tripathi.shailesh@gmail.com`
+      <br>Nikhil & Shailesh`
     }
     );
 });
