@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
     { 
       title: 'AWS Cetified Developer', 
       mainText: 'AWS Cetified Developer - Associate Certificate Registrations', 
-      subText: `Drop your email address below to Register. 
+      subText: `Now you can explore this site, in future we will make it dynamic. 
       <br>Nikhil & Shailesh`
     }
     );
