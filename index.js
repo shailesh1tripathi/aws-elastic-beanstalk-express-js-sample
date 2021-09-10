@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
     'index', 
     { 
       title: 'Coming Soon!', 
-      mainText: 'Making some changes into code', 
+      mainText: 'ABCD', 
       subText: `Drop your email address below and we will let you know when we launch the Eventually podcast. 
       <br>Brought to you by amazing people`
     }
